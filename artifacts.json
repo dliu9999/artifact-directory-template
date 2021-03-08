@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/dliu9999/artifact-directory-template",
+    "project-repository": "https://github.com/dliu9999/Fandom-Online-Collaboration",
+    "dockerhub-repository": "dliu9999/foc-docker:latest",
+    "project-website-url": "https://kyleepeng.github.io/Fandom-Online-Collaboration/",
+    "project-website-code": "https://github.com/kyleepeng/Fandom-Online-Collaboration"
 }
